@@ -1,2 +1,2 @@
-*.js linguist-vendored
+*.jupyterlab linguist-vendored
 *.Python linguist-vendored=false
