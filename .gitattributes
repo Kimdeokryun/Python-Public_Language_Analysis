@@ -1,2 +1,1 @@
-*.jupyterlab linguist-vendored
-*.Python linguist-vendored=false
+*.ipynb linguist-vendored
