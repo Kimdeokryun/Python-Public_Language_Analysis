@@ -1,1 +1,2 @@
-*.JupyterNotebook linguist-detectable=false
+*.js linguist-vendored
+*.Python linguist-vendored=false
