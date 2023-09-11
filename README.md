@@ -1,6 +1,6 @@
 # Python-Public_Language_Analysis
 
-Python GUI 공공언어분석 프로그램
+Python GUI 공공언어분석 프로그램 (2022.07.15 ~ 2023.06.01)
 
 ## 프로젝트 개요
 
